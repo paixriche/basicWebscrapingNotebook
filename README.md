@@ -1,3 +1,3 @@
-# basicWebscrapingNotebook
+# webscreb
 
 Some basic webscraping methods.
